@@ -1,5 +1,5 @@
 <?php
-// $Id: theme.inc,v 1.627 2011/01/03 08:02:11 webchick Exp $
+// $Id: theme.inc,v 1.628 2011/02/04 19:03:14 dries Exp $
 
 /**
  * @file
@@ -1263,8 +1263,6 @@ function theme_enable($theme_list) {
 
   // Invoke hook_themes_enabled after the themes have been enabled.
   module_invoke_all('themes_enabled', $theme_list);
-
-  return;
 }
 
 /**
@@ -1298,8 +1296,6 @@ function theme_disable($theme_list) {
 
   // Invoke hook_themes_enabled after the themes have been enabled.
   module_invoke_all('themes_disabled', $theme_list);
-
-  return;
 }
 
 /**
