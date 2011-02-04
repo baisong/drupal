@@ -1,4 +1,4 @@
-/* $Id: toolbar-rtl.css,v 1.1 2011/01/18 18:20:54 dries Exp $ */
+/* $Id: toolbar-rtl.css,v 1.2 2011/02/04 21:04:00 dries Exp $ */
 
 #toolbar,
 #toolbar * {
@@ -8,8 +8,8 @@
   float: right;
 }
 #toolbar ul li a {
-  float: none;
   display: inline-block;
+  float: none;
   zoom: 1;
 }
 #toolbar div.toolbar-menu {
@@ -19,8 +19,8 @@
   float: left;
 }
 #toolbar ul#toolbar-user li {
-  display: inline;
   float: none;
+  display: inline;
 }
 #toolbar-menu {
   float: none;
