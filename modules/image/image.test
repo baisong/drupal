@@ -1,11 +1,10 @@
 <?php
-// $Id: image.test,v 1.32 2011/01/13 01:08:28 dries Exp $
+// $Id: image.test,v 1.33 2011/02/04 18:42:21 dries Exp $
 
 /**
  * @file
- * Image module tests.
+ * Tests for image.module.
  */
-
 
 /**
  * TODO: Test the following functions.

@@ -1,9 +1,9 @@
 <?php
-// $Id: rdf.test,v 1.30 2010/12/14 01:04:27 dries Exp $
+// $Id: rdf.test,v 1.31 2011/02/04 18:42:21 dries Exp $
 
 /**
  * @file
- * Tests for RDF functionality.
+ * Tests for rdf.module.
  */
 
 class RdfMappingHookTestCase extends DrupalWebTestCase {

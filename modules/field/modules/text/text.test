@@ -1,5 +1,10 @@
 <?php
-// $Id: text.test,v 1.32 2010/10/25 15:51:21 webchick Exp $
+// $Id: text.test,v 1.33 2011/02/04 18:42:21 dries Exp $
+
+/**
+ * @file
+ * Tests for text.module.
+ */
 
 class TextFieldTestCase extends DrupalWebTestCase {
   protected $instance;

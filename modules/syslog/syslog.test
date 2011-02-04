@@ -1,5 +1,10 @@
 <?php
-// $Id: syslog.test,v 1.14 2010/08/05 23:53:39 webchick Exp $
+// $Id: syslog.test,v 1.15 2011/02/04 18:42:22 dries Exp $
+
+/**
+ * @file
+ * Tests for syslog.module.
+ */
 
 class SyslogTestCase extends DrupalWebTestCase {
   public static function getInfo() {

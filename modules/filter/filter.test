@@ -1,5 +1,10 @@
 <?php
-// $Id: filter.test,v 1.83 2011/01/14 08:33:46 webchick Exp $
+// $Id: filter.test,v 1.84 2011/02/04 18:42:21 dries Exp $
+
+/**
+ * @file
+ * Tests for filter.module.
+ */
 
 /**
  * Tests for text format and filter CRUD operations.

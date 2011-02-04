@@ -1,9 +1,9 @@
 <?php
-// $Id: poll.test,v 1.39 2010/10/25 15:51:21 webchick Exp $
+// $Id: poll.test,v 1.40 2011/02/04 18:42:21 dries Exp $
 
 /**
  * @file
- * Tests for the poll module.
+ * Tests for poll.module.
  */
 
 class PollTestCase extends DrupalWebTestCase {

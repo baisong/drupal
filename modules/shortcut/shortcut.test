@@ -1,9 +1,9 @@
 <?php
-// $Id: shortcut.test,v 1.7 2010/11/27 20:25:44 dries Exp $
+// $Id: shortcut.test,v 1.8 2011/02/04 18:42:21 dries Exp $
 
 /**
  * @file
- * Tests for the shortcut module.
+ * Tests for shortcut.module.
  */
 
 /**

@@ -1,5 +1,10 @@
 <?php
-// $Id: system.test,v 1.153 2010/12/01 00:23:36 webchick Exp $
+// $Id: system.test,v 1.154 2011/02/04 18:42:22 dries Exp $
+
+/**
+ * @file
+ * Tests for system.module.
+ */
 
 /**
  * Helper class for module test cases.
